@@ -21,5 +21,5 @@ Variables:
 - day_diff: Number of days since the review
 - helpful_yes: Number of helpful votes for the review
 - total_vote: Number of votes given to the review
-- 
-[Medium Blog]()
+
+[Medium Blog](https://medium.com/@denizcansuturan/rating-product-sorting-reviews-in-amazon-and-imdb-d7b53ace10a6)
